@@ -1,0 +1,21 @@
+{
+  "name": "url-monitor",
+  "version": "0.0.1",
+  "description": "Node uptime monitor",
+  "main": "app.js",
+  "keywords": [
+    "uptime",
+    "monitor"
+  ],
+  "dependencies": {
+    "nodemailer": "0.3.x",
+    "request": "~2.12.0",
+    "xoauth2": "^1.2.0"
+  },
+  "author": "ICLL",
+  "license": "MIT",
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  }
+}
